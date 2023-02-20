@@ -1,5 +1,4 @@
 # Backend_web_development_projects
-This repository contains all the Projects that I have done in FunctionUp
 
 <h1 align="center">FunctionUp Projects</h1>
 
@@ -71,7 +70,7 @@ This repository contains all the Projects that I have done in FunctionUp
 contact me ⬇️⬇️⬇️
 
 
-[![linkedin](https://img.shields.io/badge/singhcsm?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhcsm/)
+[(https://www.linkedin.com/in/singhcsm/)]
 
 
 ## To Suport My Work You Can Give a ⭐️
